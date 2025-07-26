@@ -68,13 +68,27 @@ Then open [http://localhost:4200](http://localhost:4200) in your browser.
 
 ## 🖼️ Screenshots
 
-> test
+###  Home Page
+[Light Mode]<img width="1280" height="736" alt="lightMode" src="https://github.com/user-attachments/assets/2b344c8b-af41-4c09-8664-6fe4d9292e8c" />
+[Dark Mode]<img width="1280" height="736" alt="darkMode" src="https://github.com/user-attachments/assets/1322cfc5-7683-4b59-ae37-f19fb264495f" />
+
+### Products Page
+[Products]<img width="1280" height="735" alt="products" src="https://github.com/user-attachments/assets/f4082308-ba34-471b-bbca-6aea4f096471" />
+[No search result]<img width="1280" height="734" alt="noSearch" src="https://github.com/user-attachments/assets/31be6bd2-8f8e-4a73-aa70-a40e9afd1828" />
+[API Fallback UI]<img width="1280" height="736" alt="apiFallback" src="https://github.com/user-attachments/assets/2bda6fe5-29a2-433b-bab4-112f46954373" />
+
+
+### Product Details
+[Product Details]<img width="1280" height="733" alt="productDetails" src="https://github.com/user-attachments/assets/8c3d9e72-bd8c-4bf7-87e1-e68ae796c162" />
+
+### Not Found Page
+[Not found]<img width="1280" height="735" alt="notFound" src="https://github.com/user-attachments/assets/163ee516-99b8-4143-9406-2eb4d120e5fe" />
 
 ---
 
 ## 🔗 Live Demo
 
-> test
+> (https://products-gallery-rouge.vercel.app/home)
 
 ---
 
