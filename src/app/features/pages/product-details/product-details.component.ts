@@ -16,7 +16,9 @@ export class ProductDetailsComponent {
   productDetails!: Products;
   constructor(private _ActivatedRoute: ActivatedRoute, private _Router: Router, private _ProductsService: ProductsService, private _Location: Location) {
     this._ActivatedRoute.params.subscribe(res => {
-      this.productID = res['productID']
+      this.productID = res['id']
+      console.log(this.productID);
+
     });
   }
 
